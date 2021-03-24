@@ -1,0 +1,275 @@
+{
+  "id": "2333475",
+  "name": "AI",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11501359",
+      "name": "保存",
+      "font_class": "baocun",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "1917159",
+      "name": "停止",
+      "font_class": "stop",
+      "unicode": "e810",
+      "unicode_decimal": 59408
+    },
+    {
+      "icon_id": "8148701",
+      "name": "运行",
+      "font_class": "yunhang",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "17482906",
+      "name": "历史",
+      "font_class": "lishi",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "17023863",
+      "name": "框选",
+      "font_class": "kuangxuan",
+      "unicode": "e71f",
+      "unicode_decimal": 59167
+    },
+    {
+      "icon_id": "18255319",
+      "name": "恢复原始大小",
+      "font_class": "huifuyuanshidaxiao",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "886907",
+      "name": "全屏",
+      "font_class": "quanping",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "12959268",
+      "name": "全屏",
+      "font_class": "quanping1",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "14323149",
+      "name": "缩小",
+      "font_class": "suoxiao",
+      "unicode": "e7a7",
+      "unicode_decimal": 59303
+    },
+    {
+      "icon_id": "16833770",
+      "name": "屏幕_退出全屏",
+      "font_class": "tuichuquanping",
+      "unicode": "e6f7",
+      "unicode_decimal": 59127
+    },
+    {
+      "icon_id": "19730195",
+      "name": "退出全屏",
+      "font_class": "shirk-screen",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "19740932",
+      "name": "放大",
+      "font_class": "fangda",
+      "unicode": "e7ef",
+      "unicode_decimal": 59375
+    },
+    {
+      "icon_id": "3614981",
+      "name": "任务",
+      "font_class": "task",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "4251724",
+      "name": "服务器",
+      "font_class": "fuwuqi",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "9833309",
+      "name": "数据挖掘",
+      "font_class": "shujuwajue",
+      "unicode": "e916",
+      "unicode_decimal": 59670
+    },
+    {
+      "icon_id": "15930609",
+      "name": "模型",
+      "font_class": "moxing",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "13872072",
+      "name": "日志管理",
+      "font_class": "rizhiguanli",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "8325668",
+      "name": "图表 柱状图",
+      "font_class": "tubiaozhuzhuangtu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "10594748",
+      "name": "表-折线图-报表_jurassic",
+      "font_class": "jurassic_broken-line",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "15282616",
+      "name": "饼状图",
+      "font_class": "bingzhuangtu",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "14445932",
+      "name": "预览",
+      "font_class": "yulan",
+      "unicode": "e770",
+      "unicode_decimal": 59248
+    },
+    {
+      "icon_id": "6876267",
+      "name": "断开链接",
+      "font_class": "duankailianjie",
+      "unicode": "e71a",
+      "unicode_decimal": 59162
+    },
+    {
+      "icon_id": "7361943",
+      "name": "任务分配",
+      "font_class": "renwufenpei",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "15343002",
+      "name": "连接",
+      "font_class": "lianjie",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "998817",
+      "name": "返回",
+      "font_class": "ai207",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    },
+    {
+      "icon_id": "4933405",
+      "name": "刷新",
+      "font_class": "shuaxin",
+      "unicode": "e758",
+      "unicode_decimal": 59224
+    },
+    {
+      "icon_id": "8765934",
+      "name": "移动",
+      "font_class": "caozuojiemiantubiao--_yidong",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "12562411",
+      "name": "复制",
+      "font_class": "fuzhi-",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "1222611",
+      "name": "BBD文件夹",
+      "font_class": "wenjianjia",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "1615486",
+      "name": "表格",
+      "font_class": "biaoge",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "6570230",
+      "name": "文档",
+      "font_class": "wendang",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "6742356",
+      "name": "工作",
+      "font_class": "gongzuo",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "7045322",
+      "name": "数据管理",
+      "font_class": "shujuguanli",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "7171160",
+      "name": "项目管理",
+      "font_class": "xiangmu",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "8662326",
+      "name": "系统管理",
+      "font_class": "xitongguanli",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "1048867",
+      "name": "密码",
+      "font_class": "icon_password",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "1526274",
+      "name": "锁 1",
+      "font_class": "suo",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "1526275",
+      "name": "锁 2",
+      "font_class": "suo1",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    }
+  ]
+}
